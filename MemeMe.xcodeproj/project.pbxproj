@@ -156,6 +156,7 @@
 		A903B3521BA8F7810076DC26 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = "Yunpeng Zhang";
 				TargetAttributes = {
@@ -411,6 +412,7 @@
 				A903B37B1BA8F7810076DC26 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A903B37C1BA8F7810076DC26 /* Build configuration list for PBXNativeTarget "MemeMeTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +421,7 @@
 				A903B37E1BA8F7810076DC26 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
